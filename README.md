@@ -26,9 +26,5 @@ This is a simple GUI-based Python application that allows users to input two num
 
 ```bash
 python app.py
+                 
 
-
-Md. Khalid-Bin-Osman 
-📧 Email: khalidbinosman2025@gmail.com
-🏫 IPE Student, KUET
-🇧🇩 Bangladesh
