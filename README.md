@@ -22,9 +22,5 @@ This is a simple GUI-based Python application that allows users to input two num
 
 1. Make sure Python is installed.
 2. Clone the repo or download the files.
-3. Run the script:
-
-```bash
-python app.py
-                 
+3. Run 
 
