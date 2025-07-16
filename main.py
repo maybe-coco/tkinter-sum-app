@@ -6,7 +6,7 @@ def number_sum():
     n1 = entry_one.get()
     n2 = entry_two.get()
 
-    result = int(n1) + int(n2)
+    result = float(n1) + float(n2)
     #Adding result in result_label
     result_label.config(text="The sum is : " + str(result))
 
